@@ -1,7 +1,7 @@
 {
-    "author": "straleboni@gmail.com",
-    "name": "straleboni",
-    "version": "0.1.1",
+    "author": "straleboni",
+    "name": "censorify",
+    "version": "1.0.1",
     "description": "Censor words out of text",
     "main": "index.js",
     "repository": {
@@ -14,6 +14,6 @@
     ],
     "dependencies": {},
     "engines": {
-        "node": "*"
+        "node": ">=6"
     }
 }
